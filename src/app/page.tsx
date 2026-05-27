@@ -1,4 +1,4 @@
-export default function PerfOptiqPage() {
+﻿export default function PerfOptiqPage() {
   return (
     <div style={{ fontFamily: "var(--font-body, 'Roboto Mono', monospace)", background: "#eff6ff", minHeight: "100vh", color: "#1e293b" }}>
 
@@ -263,7 +263,7 @@ export default function PerfOptiqPage() {
             <a href="https://wikolabs.com" style={{ color: "#3b82f6", textDecoration: "none" }}>Wikolabs</a>
           </div>
           <div style={{ display: "flex", gap: 24 }}>
-            <a href="mailto:hello@wikolabs.com" style={{ color: "#64748b", fontSize: 13, textDecoration: "none" }}>Contact</a>
+            <a href="mailto:team@wikolabs.com" style={{ color: "#64748b", fontSize: 13, textDecoration: "none" }}>Contact</a>
             <a href="#fonctionnalites" style={{ color: "#64748b", fontSize: 13, textDecoration: "none" }}>Fonctionnalités</a>
           </div>
         </div>
